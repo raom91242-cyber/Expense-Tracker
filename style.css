@@ -1,0 +1,23 @@
+body {
+    background-color: #f5f5f5;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+.container {
+    max-width: 1100px;
+}
+
+.list-group-item {
+    padding: 15px;
+}
+
+.btn-warning:hover {
+    color: white;
+}
+
+#expenseList {
+    margin-bottom: 30px;
+}
